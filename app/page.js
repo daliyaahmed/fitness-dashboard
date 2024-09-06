@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <div className=" flex min-h-screen bg-gray-100">
     
-    <div className=" flex-1 flex bg-orange-100 flex-col">
+    <div className=" flex-1 flex bg-[#1F1F23] flex-col">
       <Header />
      
       <Dashboard/>

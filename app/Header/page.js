@@ -14,13 +14,13 @@ const Header = () => {
 
   return (
     <div>
-    <header className="bg-orange-200 shadow p-4">
+    <header className="bg-cyan-900 shadow p-4">
       <div className="flex justify-between items-center">
       <div className="flex items-center space-x-4">
       <CiMenuBurger
         size={32}
         onClick={toggleSidebar}
-        className="text-brown cursor-pointer"
+        className=" cursor-pointer"
       />
       <img src='./Images/logo.png' alt="Placeholder Image" className="h-20 w-20" />
     </div>

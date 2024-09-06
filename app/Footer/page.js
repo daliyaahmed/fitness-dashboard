@@ -1,5 +1,5 @@
 const Footer = () => (
-<footer class="mt-auto py-4 text-center text-[#8B7D6B] font-mono mt-5 text-sm border-t border-[#8B7D6B]">
+<footer class="mt-auto py-4 text-center text-[#FB7342] font-mono mt-5 text-sm border-t border-cyan-900">
   <div class="container mx-auto">
     <p class="mb-2">© 2024 FitFlow</p>
     <div class="space-x-4">

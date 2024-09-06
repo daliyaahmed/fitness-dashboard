@@ -10,7 +10,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'brown': '#6F4E37', // Replace with your desired brown color
+        'brown': '#FFFFFF', // Replace with your desired brown color
       },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",

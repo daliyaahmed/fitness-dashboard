@@ -3,7 +3,7 @@ import { FiHome, FiBarChart2, FiUser } from 'react-icons/fi';
 import { FaRunning } from "react-icons/fa";
 
 const Sidebar = () => (
-  <div className="w-64 absolute bg-orange-100 shadow-md ">
+  <div className="w-64 absolute bg-[#1F1F23] shadow-md ">
     <div className="p-6">
       <h1 className="text-2xl text-brown font-mono font-semibold">FitFlow</h1>
       <nav className="mt-10">
